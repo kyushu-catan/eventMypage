@@ -1,0 +1,18 @@
+{
+  "lang": "ja",
+  "name": "九州カタンクラブ イベントマイページ",
+  "short_name": "イベントマイページ",
+  "theme_color": "#b12230",
+  "background_color": "#000000",
+  "icons": [{
+      "src": "./dice_counter_256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },{
+      "src": "./dice_counter_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }],
+  "start_url": "./?utm_source=homescreen",
+  "display": "standalone"
+}
